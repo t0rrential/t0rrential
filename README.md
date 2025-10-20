@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./github_banner.gif" alt="banner">
+</div>
+
 <p align="left">👋 hi, i'm bryan!</p>
 
 ###
