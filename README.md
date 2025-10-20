@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./github_banner.gif" alt="banner">
+  <img src="./github_banner.gif" alt="banner" height="400">
 </div>
 
 <p align="left">👋 hi, i'm bryan!</p>
